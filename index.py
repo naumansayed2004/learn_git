@@ -1,5 +1,5 @@
-a = 15
-b = 12
+a = 30
+b = 28
 
 res = a + b
 print(res)
